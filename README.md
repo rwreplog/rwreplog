@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a React Game<br><br>🌱 I’m currently learning React Native and Vue.js<br><br>💬 Ask me about JavaScript!<br><br>⚡ I originally went to school to be a film director
+🔭 I’m currently working on an Angular DuckDB app!<br><br>🌱 I’m currently learning React Native and Vue.js<br><br>💬 Ask me about JavaScript!<br><br>⚡ I originally went to school to be a film director
 
 
 ## 🌐 Socials:
