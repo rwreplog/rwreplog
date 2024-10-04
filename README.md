@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on an Angular DuckDB app!<br><br>🌱 I’m currently learning React Native and Vue.js<br><br>💬 Ask me about JavaScript!<br><br>⚡ I originally went to school to be a film director
+# 💫 Hi, I'm Ryan
 
 
 ## 🌐 Socials:
@@ -11,7 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rwreplog&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rwreplog&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rwreplog&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rwreplog&icon=2&color=1)](https://visitcount.itsvg.in)
